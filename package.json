@@ -1,0 +1,27 @@
+{
+  "name": "@vyron/prettier-config",
+  "version": "0.0.2",
+  "description": "personal prettier config",
+  "main": "index.js",
+  "scripts": {
+    "release": "bumpp --commit --push --tag"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "vyron",
+  "license": "MIT",
+  "devDependencies": {
+    "bumpp": "^8.2.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "publisher": "npm"
+}
