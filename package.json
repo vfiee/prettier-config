@@ -4,7 +4,7 @@
   "description": "personal prettier config",
   "main": "index.js",
   "scripts": {
-    "release": "bumpp --commit --push --tag"
+    "release": "bumpp --commit --push --tag -y"
   },
   "keywords": [
     "prettier"
