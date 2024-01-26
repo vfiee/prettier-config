@@ -4,6 +4,7 @@
   "description": "personal prettier config",
   "main": "index.js",
   "scripts": {
+    "publish": "npm publish --access public",
     "release": "bumpp --commit --push --tag -y"
   },
   "keywords": [

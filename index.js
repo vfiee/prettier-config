@@ -29,5 +29,5 @@ module.exports = {
   // 是否缩进 Vue项目中 script 和 style 标签
   vueIndentScriptAndStyle: false,
   // 使用回车换行作为默认的换行[lf|crlf|cr|auto]
-  endOfLine: 'crlf'
+  endOfLine: 'lf'
 }
